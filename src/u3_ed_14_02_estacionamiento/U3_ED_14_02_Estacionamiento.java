@@ -6,6 +6,8 @@ import java.io.InputStreamReader;
 
 public class U3_ED_14_02_Estacionamiento {
 
+    //***Programador:
+    //Brandon Itzcoatl Pérez Sandoval
     public static void main(String[] args) throws IOException {
         BufferedReader teclado=new BufferedReader(new InputStreamReader(System.in));
         int N;
